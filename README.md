@@ -1,1 +1,1 @@
-# devnet_marathon
+# DevNet Marathon - April 2020
